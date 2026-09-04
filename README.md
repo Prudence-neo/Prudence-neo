@@ -4,7 +4,7 @@ I'm an **Administration & Operations Specialist** based in Pretoria, Gauteng, fo
 
 💡 I specialize in organizing operational workflows, managing accurate record systems, and leveraging modern digital tools to simplify administrative tasks. Through the **CAPACITI AI Skill Accelerator**, I integrate practical AI tools and automated solutions into everyday office and data processes.
 
-I care deeply about **accuracy, compliance, and process efficiency**—whether optimizing record retrieval systems or building structured digital tools to solve real-world problems.
+I care deeply about **accuracy, compliance, and process efficiency** whether optimizing record retrieval systems or building structured digital tools to solve real-world problems.
 
 ---
 
