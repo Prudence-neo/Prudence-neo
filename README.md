@@ -1,10 +1,10 @@
 ## 👋 Hey, I'm Neo Prudence Matlaletsa
 
-I'm an **Administration & Operations Specialist** based in Pretoria, Gauteng, focusing on **digital literacy, data management, and AI-driven workplace productivity**[cite: 1].
+I'm an **Administration & Operations Specialist** based in Pretoria, Gauteng, focusing on **digital literacy, data management, and AI-driven workplace productivity**.
 
-💡 I specialize in organizing operational workflows, managing accurate record systems, and leveraging modern digital tools to simplify administrative tasks[cite: 1]. Through the **CAPACITI AI Skill Accelerator**, I integrate practical AI tools and automated solutions into everyday office and data processes[cite: 1].
+💡 I specialize in organizing operational workflows, managing accurate record systems, and leveraging modern digital tools to simplify administrative tasks. Through the **CAPACITI AI Skill Accelerator**, I integrate practical AI tools and automated solutions into everyday office and data processes.
 
-I care deeply about **accuracy, compliance, and process efficiency**[cite: 1]—whether optimizing record retrieval systems or building structured digital tools to solve real-world problems[cite: 1].
+I care deeply about **accuracy, compliance, and process efficiency**—whether optimizing record retrieval systems or building structured digital tools to solve real-world problems.
 
 ---
 
@@ -21,14 +21,14 @@ I care deeply about **accuracy, compliance, and process efficiency**[cite: 1]—
 ---
 
 ### 🚀 What I’m Working On
-- 🤖 Building practical AI-powered productivity and workflow tools via **CAPACITI**[cite: 1].
-- 📊 Advanced spreadsheet automation, reporting, and data capturing systems[cite: 1].
-- 🗂️ Enhancing records management and administrative compliance frameworks[cite: 1].
+- 🤖 Building practical AI-powered productivity and workflow tools via **CAPACITI**.
+- 📊 Advanced spreadsheet automation, reporting, and data capturing systems.
+- 🗂️ Enhancing records management and administrative compliance frameworks.
 
 ---
 
 ### 🌱 What I’m Looking For
-I’m actively seeking opportunities as an **Administrative Specialist, Data Coordinator, or Operations Support Officer** where I can apply my administrative experience, technical skills, and AI digital training to streamline business operations[cite: 1].
+I’m actively seeking opportunities as an **Administrative Specialist, Data Coordinator, or Operations Support Officer** where I can apply my administrative experience, technical skills, and AI digital training to streamline business operations.
 
 ---
 
