@@ -11,12 +11,18 @@ I care deeply about **accuracy, compliance, and process efficiency** whether opt
 ### 🧰 Core Skills & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_&_Digital_Skills-00A4EF?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Management-003366?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Project_Management-4B0082?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+### 📜 Certifications & Credentials
+- 🎓 **Google AI Essentials Specialization** – *Google / Coursera* (Issued Sep 2026) | [Verify Credential](https://coursera.org/verify/specialization/R7B2COWC2UNR)
 
 ---
 
